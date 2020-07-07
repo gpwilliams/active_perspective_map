@@ -812,43 +812,6 @@ document.getElementById("submitMap").style.color = "#ffffff"
       "parameters": {},
       "messageHandlers": {},
       "title": "Questions"
-    },
-    {
-      "type": "lab.html.Page",
-      "items": [
-        {
-          "type": "text",
-          "title": "Debrief",
-          "content": "\u003Cp\u003EThank you for participating in this online study, which explores whether engagement and narrative perspective work together to improve listening comprehension.  Results of the study could inform future methods for improving narrative comprehension in children.  We hope that you have found it interesting and have enjoyed the experience. However, if you have any concerns regarding the experience and you wish to speak to one of the researchers, please contact either:\u003C\u002Fp\u003E\n\n\u003Cul\u003E\n\u003Cli\u003EKerry Vart (Researcher)\u003Cbr\u003E\nEmail: \u003Ca href=\"mailto:bh56od@student.sunderland.ac.uk\" target=”_blank”\u003Ebh56od@student.sunderland.ac.uk\u003C\u002Fa\u003E\n\u003C\u002Fli\u003E\n\u003Cli\u003EDr Glenn Williams (Research Supervisor)\u003Cbr\u003E\nEmail: \u003Ca href=\"mailto:glenn.williams@sunderland.ac.uk\" target=”_blank”\u003Eglenn.williams@sunderland.ac.uk\u003C\u002Fa\u003E\u003Cbr\u003E\nPhone: 0191 515 2522\n\u003C\u002Fli\u003E\n\u003C\u002Ful\u003E\n\nYou may feel you would like more advice and access to different stories to engage your child. The following websites offer access to free e-books and guidance on encouraging a love of books:\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Ca href=\"https:\u002F\u002Fwww.booktrust.org.uk\u002Fbooks-and-reading\u002Ftips-and-advice\u002Freading-tips\u002F\" target=”_blank”\u003Ehttps:\u002F\u002Fwww.booktrust.org.uk\u002Fbooks-and-reading\u002Ftips-and-advice\u002Freading-tips\u002F\u003C\u002Fa\u003E\n\u003C\u002Fli\u003E\n\u003Cli\u003E\u003Ca href=\"https:\u002F\u002Fwww.oxfordowl.co.uk\u002Ffor-home\u002Ffind-a-book\u002Flibrary-page\u002F\" target=”_blank”\u003Ehttps:\u002F\u002Fwww.oxfordowl.co.uk\u002Ffor-home\u002Ffind-a-book\u002Flibrary-page\u002F \u003C\u002Fa\u003E\n\u003C\u002Fli\u003E\n\u003C\u002Ful\u003E\n\nIf your child has enjoyed the pirate story you may wish to investigate further pirate activities on the websites below:\n\n\u003Cul\u003E\n\u003Cli\u003E\u003Ca href=\"https:\u002F\u002Fwww.bbc.co.uk\u002Fcbeebies\u002Ftopics\u002Fpirates\" target=”_blank”\u003Ehttps:\u002F\u002Fwww.bbc.co.uk\u002Fcbeebies\u002Ftopics\u002Fpirates\u003C\u002Fa\u003E\n\u003C\u002Fli\u003E\n\u003Cli\u003E\u003Ca href=\"https:\u002F\u002Fwww.bbc.co.uk\u002Fcbbc\u002Fcurations\u002Fpirates-on-cbbc\" target=”_blank”\u003Ehttps:\u002F\u002Fwww.bbc.co.uk\u002Fcbbc\u002Fcurations\u002Fpirates-on-cbbc\u003C\u002Fa\u003E\n\u003C\u002Fli\u003E\n\u003C\u002Ful\u003E\n\n\u003Cp\u003EThank you for taking the time to be a part of this study.\u003C\u002Fp\u003E"
-        }
-      ],
-      "scrollTop": true,
-      "submitButtonText": "Continue →",
-      "submitButtonPosition": "right",
-      "files": {},
-      "responses": {},
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "Debrief"
-    },
-    {
-      "type": "lab.html.Page",
-      "items": [
-        {
-          "type": "text",
-          "title": "Goodbye",
-          "content": "Thank you for taking part!"
-        }
-      ],
-      "scrollTop": true,
-      "submitButtonText": "Continue →",
-      "submitButtonPosition": "hidden",
-      "files": {},
-      "responses": {},
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "Goodbye",
-      "timeout": "5000"
     }
   ]
 })
