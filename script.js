@@ -139,9 +139,9 @@ if(perspective == "second-person" && engagement == "active") {
   instructionsFinish["partB"] = varyingInstructions["finishActive"];
 } else {
   // third-person passive instructions
-  instructionsCharacter["partB"] = varyingInstructions["perspectiveSecond"];
+  instructionsCharacter["partB"] = varyingInstructions["perspectiveThird"];
   instructionsPerspective["partB"] = varyingInstructions["engagementPassive"];
-  instructionsFinish["partB"] = varyingInstructions["finishActive"];
+  instructionsFinish["partB"] = varyingInstructions["finishPassive"];
 }
 
 // push instructions to the html paragraph.
