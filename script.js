@@ -830,6 +830,25 @@ document.getElementById("submitMap").style.color = "#ffffff"
       "parameters": {},
       "messageHandlers": {},
       "title": "Debrief"
+    },
+    {
+      "type": "lab.html.Page",
+      "items": [
+        {
+          "type": "text",
+          "title": "Goodbye",
+          "content": "Thank you for taking part!"
+        }
+      ],
+      "scrollTop": true,
+      "submitButtonText": "Continue →",
+      "submitButtonPosition": "hidden",
+      "files": {},
+      "responses": {},
+      "parameters": {},
+      "messageHandlers": {},
+      "title": "Goodbye",
+      "timeout": "5000"
     }
   ]
 })
