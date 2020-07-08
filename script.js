@@ -100,7 +100,7 @@ var engagement = this.parameters.engagement;
 var instructionsCharacter = {
   partA: "You will hear a story about",
   partB: "",
-  partC: "going to diffent locations on the island."
+  partC: "going to different locations on the island."
 };
 
 var instructionsPerspective = {
